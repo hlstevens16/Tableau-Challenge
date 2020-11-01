@@ -1,0 +1,14 @@
+Discovery phenomena 1: Gender Role
+- Dashboard 1
+- Sheet 1, 2, 6 and 6(2)
+Findings: Gender fell into three categories - unknown, male and female. Total count of usertype was approximately 577,703 with ~ 45% identifying as male, ~42% not identifying, and ~13% identifying as female. (See sheet 2 for pie chart.) On average, males had the shortest tripduration of the three gender categories at 1063.5 seconds. Women's avgerage tripduration in seconds was 1233.2 and unknown was 1753.3 seconds. (See sheet 1.)  Sheets 6 look at the gender breakdown at each start location and end location - highest start location for women and men, interestingly enough, was: E 17th Street and Broadway. 
+
+Map: 
+- Dashboard 2
+- Sheet 3 and 4
+Findings: Maps of bike trip counts for both start locations and end locations show the most popular stations to be near Central park, the ferries and broadway. Highest count at both start and end locations was W 20th and 11 Ave. 
+
+Discovery phenomena 2: Avg. Tripduration
+- Dashboard 3
+- Sheet 5, 7, 8, and 9
+Findings: The top five average longest tripdurations for start were in the lower east side of Manhattan (LES), Brookyln, financial district and flariron district.The top five average longest tripdurations for end stations were in Brookyln, Dumbo and Central Park. One could assume folks are biking to and from work across bridges in those areas, and for leisure near the park. Top five start stations for shortest were in Times Square, Murray Hill, Washington Park and downtown Brookyln. Top five end stations for shortest were in West Village, East Village and Times Square. Quick rides near subway stations makes sense! These locations are more inland and further from bridges. 
